@@ -20,8 +20,11 @@ It also displays your CPU usage and temperature in real-time, and adjusts the an
 
 ## 📷 Screenshot
 ![1](https://github.com/user-attachments/assets/90819343-739d-41a2-bb23-d04b5006d935)
+
 ![2](https://github.com/user-attachments/assets/97ceb00e-6383-4a12-98e4-a0b00b963c1d)
+
 ![3](https://github.com/user-attachments/assets/30355066-b232-44bb-867d-f900ee098c64)
+
 <img width="273" height="231" alt="4" src="https://github.com/user-attachments/assets/ce8a0591-a6c1-4a3e-9729-cf99bc2c9ba7" />
 
 
