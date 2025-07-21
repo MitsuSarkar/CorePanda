@@ -40,8 +40,6 @@ It also displays your CPU usage and temperature in real-time, and adjusts the an
 ## 🚀 How to Build
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/CorePanda.git
-cd CorePanda
 📦 How to use:
 1️⃣ Download and extract the zip.
 2️⃣ Run CorePanda.exe.
